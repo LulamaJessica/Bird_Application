@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "825157610156",
+    "firebase_url": "https://birdapp-6b9c5-default-rtdb.firebaseio.com",
+    "project_id": "birdapp-6b9c5",
+    "storage_bucket": "birdapp-6b9c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825157610156:android:909e0893d904e2bea54d09",
+        "android_client_info": {
+          "package_name": "com.example.birdapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUAcce1V1sZqRUh9bms4Yb9hLT1Cgm3oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825157610156:android:6e038bff6d3b6103a54d09",
+        "android_client_info": {
+          "package_name": "com.example.poe_opsc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUAcce1V1sZqRUh9bms4Yb9hLT1Cgm3oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
